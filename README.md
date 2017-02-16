@@ -13,3 +13,7 @@ Berikut adalah paket python yang penting dipelajari
 
 
 #anaconda
+Anaconda memudahkan anda untuk memulai petualangan di bidang data science. anda dapat mengunduh di halaman resmi [anaconda](https://www.continuum.io/downloads) dan sesuaikan dengan sistem operasi yang digunakan. Selain itu anaconda memudahkan pengguna untuk memasang modul yang dibutuhkan melalui *conda package* 
+
+Nantinya paket yang anda gunakan adalah *jupyter-notebook*
+
